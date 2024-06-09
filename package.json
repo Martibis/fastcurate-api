@@ -1,0 +1,42 @@
+{
+  "name": "fastcurate_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thewall4095/fastcurate_backend.git"
+  },
+  "author": "thewall4095",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thewall4095/fastcurate_backend/issues"
+  },
+  "homepage": "https://github.com/thewall4095/fastcurate_backend#readme",
+  "dependencies": {
+    "@hiveio/dhive": "^0.14.12",
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.2",
+    "dsteem": "^0.11.3",
+    "express": "^4.18.1",
+    "helmet": "^5.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.4",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "remarkable": "^2.0.1",
+    "sc2-sdk": "^2.0.1",
+    "showdown": "^2.1.0",
+    "steem": "^0.7.11",
+    "uuid": "^9.0.0",
+    "word-counting": "^1.1.4",
+    "xss": "^1.0.14"
+  }
+}
